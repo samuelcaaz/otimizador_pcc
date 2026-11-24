@@ -1,0 +1,12 @@
+# Logs locais (nunca subir para o GitHub)
+logs/
+*.log
+
+# Binarios / arquivos temporarios de build (o .exe vai publicado em Releases)
+OtimizadorPC.exe
+*.pdb
+*.user
+*.suo
+.vs/
+bin/
+obj/
